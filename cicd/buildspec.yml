@@ -1,0 +1,16 @@
+version: 0.2
+
+phases:
+  pre_build:
+    commands:
+      - aws --version
+      - npm install
+  build:
+    commands:
+      - echo Current directory `pwd`
+      - echo Building on `date`
+      - npm run build
+artifacts:
+  files:
+    - '**/*'
+  base-directory: out

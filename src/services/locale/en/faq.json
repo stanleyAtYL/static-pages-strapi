@@ -1,0 +1,110 @@
+{
+  "FAQ": "FAQ",
+
+  "TOPICS": "TOPICS",
+  "About YouLand": "About YouLand",
+
+  "Is YouLand Mortgage a direct lender?": "Is YouLand a direct lender?",
+  "answer1": "Yes, we are. We work with all our borrowers from application through funding of the loan, which creates a seamless and consistent experience.",
+
+  "Will YouLand Mortgage service my mortgage?": "Will YouLand service my mortgage?",
+  "answer2": "YouLand handles payment administration and collection. Moving forward, we may transfer ownership of your loan to an investor who will provide servicing. We have a large roster of reputable servicers and mortgage investors including major US banks, government-sponsored entities, publicly-traded mortgage companies, and specialized servicing firms. We collect third-party reviews and survey our borrowers post-transfer to ensure the permanent servicers are quality partners. In the event that your loan is transferred to a new servicer, YouLand will send you a notification with details on where to send future payments.",
+
+  "Does YouLand Mortgage offer mortgages in my state?": "Does YouLand offer mortgages in my state?",
+  "answer3": "We currently offer home loans in California, but we're growing all the time. We plan to expand to several dozen states by the end of 2021.",
+
+  "Are there alternatives to in-person appraisals?": "Are there alternatives to in-person appraisals?",
+  "answer4": "We are working diligently with federal agencies and partners to roll out alternatives to in-person appraisals where we can. These measures may vary based on the loan, so your Mortgage Expert can help you discuss your options.",
+
+  "Bridge Loan": "Bridge Loan",
+
+  "What is a bridge loan?": "What is a bridge loan?",
+  "answer5": "A bridge loan is a short-term loan program to be utilized until permeant financing is secured or a property is sold. It is very popular for real estate investors when comes to purchasing properties to fix and flip. Bridge loans help buyers to increase their odds of winning bidding wars since they’re essentially as strong as full cash offers.",
+
+  "Why consider a bridge loan?": "Why consider a bridge loan?",
+  "answer6 l1": "No income verification required",
+  "answer6 l2": "Minimum FICO 650",
+  "answer6 l3": "Fast closing time frame (5 days upon receipt of all documents)",
+  "answer6 l4": "No prepayment penalties",
+
+  "What is the maximum loan term?": "What is the maximum loan term?",
+  "answer7": "Up to 18 months. Extensions can be offered based on specific loan scenarios.",
+
+  "What kind of properties can I finance with a bridge loan?": "What kind of properties can I finance with a bridge loan?",
+  "answer8": "Investment properties only.",
+
+  "How long does it take to close?": "How long does it take to close?",
+  "answer9": "As soon as 5 days upon receipt of all required documents.",
+
+  "Rental Loan": "Rental Loan",
+
+  "What is a rental loan?": "What is a rental loan?",
+  "answer10": "A rental loan is loan program designated to purchase or refinance rental properties only. ",
+
+  "How is a rental loan different from mortgage or alternative mortgage?": "How is a rental loan different from mortgage or alternative mortgage? ",
+  "answer11": " A rental loan is for rental properties, not primary residences. Rental loans also do not require personal debt to income ratios. The primary considerations are the current market rents and expenses related to the subject property only. Rental loan programs are more flexible and are easier to qualify for compared to other loan programs.",
+
+  "What is the maximum loan to value?": "What is the maximum loan to value?",
+  "answer12": "80% LTV for purchases and 75% LTV for refinances.",
+
+  "How can I qualify for a rental loan?": "How can I qualify for a rental loan?",
+  "answer13 l1": "Proof of good mortgage history for the past 12 months OR",
+  "answer13 l2": "Proof of good rental history for the past 12 months",
+  "answer13 l3": "Minimum FICO 575",
+
+  "How long does it take to close a rental loan?": "How long does it take to close a rental loan?",
+  "answer14": "As soon as 30 days upon receipt of a full loan package.",
+
+  "Alternative Mortgage": "Alternative Mortgage",
+
+  "What is an Alternative Mortgage? ": "What is an Alternative Mortgage? ",
+  "answer15": "An alternative mortgage is a home loan program similar to conventional mortgages but with flexible requirements. It is designed for homebuyers who can’t meet the requirements of a traditional mortgage. We offer a variety of alternative mortgage programs fit into specific loan scenarios; please refer to the program page for details.",
+
+  "What are the standard loan terms of alternative mortgage?": "What are the standard loan terms of alternative mortgage?",
+  "answer23": "Alternative mortgage terms are usually 30 years with fixed interest rates, or with 5- and 7-year adjustable-rate options. ",
+
+  "What is the maximum loan to value? ": "What is the maximum loan to value? ",
+  "answer16": "Up to 85%",
+
+  "Can you lock rates on an alternative mortgage program? ": "Can you lock rates on an alternative mortgage program? ",
+  "answer17": "Yes, alternative mortgage has a similar loan process to traditional mortgage but offers more flexibility in terms of required documentation and debt to income thresholds. ",
+
+  "How long does it take to close an alternative mortgage program?": "How long does it take to close an alternative mortgage program?",
+  "answer18": "As soon as 30 days upon receipt of a full loan package. ",
+
+  "Jumbo Loan": "Jumbo Loan",
+
+  "What is a jumbo loan?": "What is a jumbo loan?",
+  "answer19": "A Jumbo Mortgage is a mortgage with a loan amount above conventional loan limits established by Fannie Mae and Freddie Mac.",
+
+  "What are the jumbo loan limits?": "What are the jumbo loan limits?",
+  "answer20 l1": "Currently $548,250 for a single family home in all states (except Hawaii and Alaska and a few federally designated high-cost markets, where the limit is $822,375). ",
+  "answer20 l2": "Youland offers various jumbo loan programs, which can lend up to $10 million for primary residences. Please refer to the jumbo loan programs page for details. ",
+
+  "Why consider a jumbo loan?": "Why consider a jumbo loan?",
+  "answer21 l1": "You want to purchase or refinance a high-end property",
+  "answer21 l2": "Your property is in an expensive neighborhood",
+  "answer21 l3": "You have a good credit score, consistent income and low debt",
+  "answer21 l4": "You are a high-income earner with additional assets",
+
+  "What kinds of properties can I finance with a jumbo loan?": "What kinds of properties can I finance with a jumbo loan?",
+  "answer22": "You can use a jumbo loan to purchase a variety of property types, including a primary residence, second home or investment property.",
+
+  "YouLand Benefit": "YouLand Benefit",
+
+  "Pre-approval": "Pre-approval",
+  "answer23 l1": "We give you what you need to start making offers on your home",
+  "answer23 l2": "Buying a home is a big deal. Whenever you're ready to place an offer, you can be confident that the buyer knows you are serious by getting pre-approval for a mortgage.",
+
+  "What types of pre-approval does YouLand offer?": "What types of pre-approval does YouLand offer?",
+  "answer24": "YouLand offers a verified pre-approval instantly.",
+
+  "What is a verified pre-approval?": "What is a verified pre-approval?",
+  "answer25": "A verified pre-approval provides a comprehensive assessment of your finances without requiring a hard credit check to show you and potential sellers what you can afford. We verify your income, debt, credit score and real estate ownership. We turn around pre-approval instantly after we receive your information.",
+
+  "How will getting a pre-approval affect my credit?": "How will getting a pre-approval affect my credit?",
+  "answer26": "A verified pre-approval only requires a soft credit check, so it will not affect your credit. We will always ask for your permission before checking your credit.",
+
+  "Does my pre-approval letter expire?": "Does my pre-approval letter expire?",
+  "answer27": "Pre-approval letters expire after 120 days. If your financial situation changes before then, you may need an updated letter."
+}

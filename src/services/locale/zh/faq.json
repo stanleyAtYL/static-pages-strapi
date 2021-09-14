@@ -1,0 +1,110 @@
+{
+  "FAQ": "常见问题解答",
+
+  "TOPICS": "主题",
+  "About YouLand": "关于有联贷款",
+
+  "Is YouLand Mortgage a direct lender?": "有联是直接贷款人吗?",
+  "answer1": "是的。有联与借款人合作，完成从申请到放款的整个贷款周期。我们强调提供优质的客户服务，创造轻松的数字化一站式借贷体验。",
+
+  "Will YouLand Mortgage service my mortgage?": "有联会为我的贷款服务吗？",
+  "answer2": "有联负责支付管理和收款。展望未来，我们可能会将您贷款的所有权转让给将提供服务的投资者。我们拥有大量信誉良好的服务商和抵押贷款投资者，其中包括美国主要银行、政府资助的实体、公开交易的抵押贷款公司和专业服务公司。我们收集第三方评论并在转移后调查我们的借款人，以确保永久服务商是优质合作伙伴。如果您的贷款被转移到新的服务机构，有联将向您发送通知，其中包含有关未来付款发送地点的详细信息。",
+
+  "Does YouLand Mortgage offer mortgages in my state?": "有联在我所在的州提供房屋贷款吗？",
+  "answer3": "我们目前在加州提供住房贷款，但我们一直在增长。我们计划到2021年底将其扩展到几十个州。",
+
+  "Are there alternatives to in-person appraisals?": "除了现场评估，还有其他选择吗?",
+  "answer4": "我们正在努力与联邦机构和合作伙伴一起推出替代现场评估的方法。这些措施可能会根据贷款的不同而不同，所以你的房屋贷款专家可以帮助你讨论你的选择。",
+
+  "Bridge Loan": "过桥贷款",
+
+  "What is a bridge loan?": "什么是过桥贷款?",
+  "answer5": "过桥房屋贷款是一种短期贷款，可以帮助你像纯现金一样快速完成房产买卖，拿到你的梦想屋；或者在你的旧房还没有卖出之前，帮助你先买新房，然后重新贷款；或者帮你买到旧的房子，给你提供专修贷款，然后在市场上出售或者租赁。过桥房屋贷款非常受房产投资人欢迎。过桥贷款帮助买家增加了他们在竞标战中获胜的几率，因为从本质上说，过桥贷款和全额现金报价一样强大。",
+
+  "Why consider a bridge loan?": "为什么要考虑过桥贷款?",
+  "answer6 l1": "无需收入证明",
+  "answer6 l2": "最低FICO 信用分650",
+  "answer6 l3": "快速完成交易(收到所有文件后5天内)",
+  "answer6 l4": "没有预付处罚",
+
+  "What is the maximum loan term?": "最长的贷款期限是多少?",
+  "answer7": "长达18个月。可以根据特定的贷款方案提供扩展。",
+
+  "What kind of properties can I finance with a bridge loan?": "我可以用过桥贷款来重新贷款什么样的房产?",
+  "answer8": "仅投资性房产。",
+
+  "How long does it take to close?": "完成需要多长时间?",
+  "answer9": "在收到所有所需文件后5天内。",
+
+  "Rental Loan": "租赁贷款",
+
+  "What is a rental loan?": "什么是租赁贷款?",
+  "answer10": "租赁贷款是专门用于购买或重新贷款租赁房产的贷款计划。",
+
+  "How is a rental loan different from mortgage or alternative mortgage?": "租赁房屋贷款与传统房屋贷款或非传统房屋贷款有何不同?",
+  "answer11": "租赁贷款是用于出租房产，而不是主要住宅。租赁贷款也不要求个人债务与收入的比率。主要考虑因素仅为有关房产现时的市场租金及开支。与其他贷款项目相比，租赁贷款项目更灵活，更容易符合资格。",
+
+  "What is the maximum loan to value?": "贷款价值比的最大值是多少?",
+  "answer12": "买房80%的贷款价值比，重新贷款75%的贷款价值比。",
+
+  "How can I qualify for a rental loan?": "我怎样才有资格申请租赁贷款?",
+  "answer13 l1": "过去12个月的良好贷款记录证明或",
+  "answer13 l2": "过去12个月的良好租赁记录证明",
+  "answer13 l3": "最低FICO 信用分575",
+
+  "How long does it take to close a rental loan?": "办理完租赁贷款需要多长时间?",
+  "answer14": "在收到全部贷款包后30天内。",
+
+  "Alternative Mortgage": "非传统贷款",
+
+  "What is an Alternative Mortgage? ": "什么是非传统贷款?",
+  "answer15": "非传统贷款是一项类似传统贷款的住房贷款，但特点灵活，是专为不满足传统贷款要求的购房者而设计。我们提供多种可供选择的非传统贷款方案，以适应特定的贷款情况;详情请参阅方案页面。",
+
+  "What are the standard loan terms of alternative mortgage?": "非传统贷款的标准贷款条款是什么?",
+  "answer23": "非传统的贷款条款通常是30年，固定利率，或选择5年和7年可调整利率。",
+
+  "What is the maximum loan to value? ": "贷款价值比的最大值是多少?",
+  "answer16": "高达85%",
+
+  "Can you lock rates on an alternative mortgage program? ": "你能锁定非传统贷款项目的利率吗?",
+  "answer17": "可以，非传统贷款的贷款过程类似于传统贷款，但从必要的文件和债务到收入的门槛这些条款上都提供了更多的灵活性。",
+
+  "How long does it take to close an alternative mortgage program?": "完成一个非传统贷款项目需要多长时间?",
+  "answer18": "在收到全部贷款包后30天内。",
+
+  "Jumbo Loan": "大额贷款",
+
+  "What is a jumbo loan?": "什么是大额贷款?",
+  "answer19": "大额贷款是指金额超过房利美(联邦全国抵押协会)和房地美(联邦住房贷款抵押公司)规定的常规贷款限额的贷款。",
+
+  "What are the jumbo loan limits?": "大额贷款限额是多少?",
+  "answer20 l1": "目前，在美国所有州(除了夏威夷、阿拉斯加和一些联邦指定的高成本市场，那里的限额为822375美元)，单户住宅的限额为548250美元。",
+  "answer20 l2": "有联提供各种各样的大额贷款计划，可以为主要居所提供高达1000万美元的贷款。详情请参阅大额贷款计划页面。",
+
+  "Why consider a jumbo loan?": "为什么要考虑大额贷款?",
+  "answer21 l1": "你想购买或重新贷款一处高端房产",
+  "answer21 l2": "你的房子在一个昂贵的社区",
+  "answer21 l3": "你有良好的信用评分，稳定的收入和低债务",
+  "answer21 l4": "你是一个拥有额外资产的高收入者",
+
+  "What kinds of properties can I finance with a jumbo loan?": "我可以用大额贷款来重新贷款什么样的房产?",
+  "answer22": "你可以用大额贷款购买各种类型的房产，包括主要住宅、第二套住房或投资房产。",
+
+  "YouLand Benefit": "有联优势",
+
+  "Pre-approval": "预先批准",
+  "answer23 l1": "我们为您提供您所需的一切，以便开始为您的房屋报价。",
+  "answer23 l2": "买房是件大事。无论何时你准备好出价，你都可以通过获得抵押贷款的预先批准，确信让买家知道你是认真的。",
+
+  "What types of pre-approval does YouLand offer?": "有联提供哪些类型的预批准？",
+  "answer24": "有联提供实时的经验证的预批准。",
+
+  "What is a verified pre-approval?": "什么是经验证的预批准？",
+  "answer25": "经过验证的预批准可以对您的财务状况进行全面评估，而无需进行严格的信用检查，以向您和潜在的卖家展示您的支付能力。我们核实您的收入、债务、信用评分和房地产所有权。我们在收到您的信息后立即转为预批准。",
+
+  "How will getting a pre-approval affect my credit?": "获得预先批准将如何影响我的信用？",
+  "answer26": "经过验证的预批准只需要软信用检查，因此不会影响您的信用。在检查您的信用之前，我们将始终征求您的许可。",
+
+  "Does my pre-approval letter expire?": "我的预批准函是否过期？",
+  "answer27": "预批准函在120天后到期。如果在此之前您的财务状况发生变化，您可能需要更新信函。"
+}

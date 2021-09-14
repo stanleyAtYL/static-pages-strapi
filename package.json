@@ -1,0 +1,75 @@
+{
+  "name": "static-home",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 3001",
+    "build": "next build && next export",
+    "start": "next start",
+    "lint": "eslint . --ext ts --ext tsx --ext js",
+    "type-check": "tsc --pretty --noEmit",
+    "format": "prettier --write .",
+    "storybook": "start-storybook -p 6006",
+    "build-storybook": "build-storybook -s public/"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged",
+      "pre-push": "npm run type-check"
+    }
+  },
+  "lint-staged": {
+    "*.@(ts|tsx)": [
+      "npm run lint",
+      "npm run format"
+    ]
+  },
+  "dependencies": {
+    "@apollo/client": "^3.3.20",
+    "@material-ui/core": "^4.11.4",
+    "@material-ui/icons": "^4.11.2",
+    "aos": "^2.3.4",
+    "babel-plugin-styled-components": "^1.13.2",
+    "clsx": "^1.1.1",
+    "eslint-plugin-react-hooks": "^4.2.0",
+    "graphql": "^15.5.0",
+    "i18next": "^20.3.2",
+    "i18next-browser-languagedetector": "^6.1.2",
+    "interweave": "^12.7.2",
+    "next": "10.2.3",
+    "next-compose-plugins": "^2.2.1",
+    "next-images": "^1.7.0",
+    "next-with-less": "^0.3.0",
+    "notistack": "^1.0.9",
+    "react": "17.0.2",
+    "react-cookie-consent": "^6.2.4",
+    "react-dom": "17.0.2",
+    "react-i18next": "^11.11.0",
+    "react-lazy-load-image-component": "^1.5.1",
+    "react-markdown": "^7.0.1",
+    "react-material-ui-carousel": "^2.2.6",
+    "react-sticky-el": "^2.0.9",
+    "styled-components": "^5.3.0",
+    "validate.js": "^0.13.1"
+  },
+  "devDependencies": {
+    "@storybook/addon-actions": "^6.2.9",
+    "@storybook/addon-essentials": "^6.2.9",
+    "@storybook/addon-links": "^6.2.9",
+    "@storybook/react": "^6.2.9",
+    "@types/aos": "^3.0.3",
+    "@types/node": "^15.12.2",
+    "@types/react": "^17.0.11",
+    "@types/react-dom": "^17.0.7",
+    "@types/react-lazy-load-image-component": "^1.5.1",
+    "@typescript-eslint/eslint-plugin": "^4.26.1",
+    "@typescript-eslint/parser": "^4.26.1",
+    "eslint": "^7.28.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-react": "^7.24.0",
+    "husky": "^6.0.0",
+    "lint-staged": "^11.0.0",
+    "prettier": "^2.3.1",
+    "typescript": "^4.3.2"
+  }
+}

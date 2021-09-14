@@ -1,0 +1,1 @@
+export { AlternativeMortgageProd } from './AlternativeMortgageProd';

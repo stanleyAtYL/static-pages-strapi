@@ -1,0 +1,1 @@
+export { RentalProd } from './RentalProd';
