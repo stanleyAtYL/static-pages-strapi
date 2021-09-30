@@ -1,9 +1,11 @@
 import React, { FC, useCallback, useMemo, useEffect, useState } from 'react';
 import { articles } from './data';
-import { Box, makeStyles, Typography } from '@material-ui/core';
+import { Box, makeStyles, Typography, withStyles} from '@material-ui/core';
 import { flexCenter, flexCenterV, size } from '@/common/styles';
 import { useTranslation } from 'react-i18next';
-import ReactMarkdown from 'react-markdown'
+// import ReactMarkdown from 'react-markdown'
+import dynamic from 'next/dynamic'
+const ReactMarkdown = dynamic(() => import('react-markdown').then((module) => module.default), { ssr: false })
 
 const useStyles = makeStyles({
   header: {
@@ -42,6 +44,53 @@ const useStyles = makeStyles({
   },
 });
 
+
+const styles = () => ({
+  header: {
+    ...size('100%', 386),
+    position: 'relative',
+  },
+  bgImg: {
+    ...size(353, 616),
+    position: 'absolute',
+    bottom: -150,
+  },
+  mainTitle: {
+    color: '#95C72E',
+    fontFamily: 'MontserratBold',
+    fontSize: 24,
+    lineHeight: 1.7,
+    marginBottom: 8,
+    marginTop: 47,
+  },
+  subTitle: {
+    fontFamily: 'MontserratBold',
+    lineHeight: 1.5,
+    marginBottom: 4,
+  },
+  paragraph: {
+    color: 'rgba(0, 0, 0, 0.5);',
+    lineHeight: 1.7,
+    marginBottom: 12,
+  },
+  link: {
+    textDecoration: 'underline',
+  },
+  disclaimer: {
+    marginTop: 152,
+    fontStyle: 'italic',
+  },
+});
+
+const MarkdownHeading3 = withStyles(styles)(({ classes, ...props }) => {
+  return (<div className={classes.mainTitle}>{props.children}</div>)
+});
+
+const MarkdownParagraph = withStyles(styles)(({ classes, ...props }) => {
+  return (<div className={classes.mainTitle}>{props.children}</div>)
+});
+
+
 // interface ArticleProps {
 //   articleId: string;
 // }
@@ -55,7 +104,7 @@ export const Article: FC<{
   homepage: Record<string, unknown>}> = (props) => {
 
   const { articleId, articles, categories, homepage} = props;
-  console.log(props);
+  // console.log(props);
   const { i18n } = useTranslation();
   const [curArticle, setCurArticle] = useState({
     title: '',
@@ -83,6 +132,14 @@ export const Article: FC<{
 
 
   const classes = useStyles();
+
+
+  const renderers = {
+    h3: MarkdownHeading3,
+
+};
+
+
 
   // const parseArticle = useCallback(
   //   (article) => {
@@ -183,7 +240,7 @@ export const Article: FC<{
       </Box>
       <Box margin={'38px auto 124px auto'} width={'1200px'}>
         {/* {renderArticle} */}
-        <ReactMarkdown>{curArticle.content}</ReactMarkdown>
+        <ReactMarkdown components={renderers} >{curArticle.content}</ReactMarkdown>
       </Box>
     </div>
   );

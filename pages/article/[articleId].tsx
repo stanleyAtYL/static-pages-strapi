@@ -4,7 +4,7 @@ import { useRouter } from 'next/router';
 import { Layout } from '@/layouts';
 
 import {GetStaticProps, GetStaticPaths} from 'next'
-
+     
 type Props = {
   articles: Record<string, unknown>,
   categories: Record<string, unknown>,
